@@ -1,0 +1,6 @@
+tasks:
+  - init: npm install && npm run build
+vscode:
+  extensions:
+    - hollowtree.vue-snippets@0.1.11:6Eh/noAzUlIM2G8pAmdZqA==
+    - jcbuisson.vue@0.1.5:iY3UUCX2mmoIw5ODWkEcyw==
